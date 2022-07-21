@@ -57,9 +57,9 @@ h1 {
   /* text-align: center; */
 }
 
-/* a {
+a {
   text-decoration: none;
-} */
+}
 
 body {
   display: grid;
@@ -137,12 +137,9 @@ nav ul {
 .nav-item  a {
   color: #ffffffBD;
   padding-right: 2rem;
-}
-
-
-li.nav-item:hover {
   text-decoration: underline;
 }
+
 
 /* Main */
 
